@@ -1,0 +1,95 @@
+html, * {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.tan-stripe {
+	background-color: wheat;
+	height: 100px;
+	width: 45%;
+	margin: 45px 0px 5px 45px ;
+	display: block;
+	border-radius: 50px 50px 0px 0px;
+}
+
+.tan-stripe2 {
+	background-color: wheat;
+	height: 50px;
+	width: 45%;
+	margin: 5px 0px 5px 45px ;
+	display: block;
+	border-radius: 0px 0px 50px 50px;
+}
+
+.green-stripe {
+	background-color: green;
+	height: 25px;
+	width: 44%;
+	margin: 5px 0px 5px 50px ;
+	display: block;
+}
+
+.red-stripe {
+	background-color: red;
+	height: 50px;
+	width: 44%;
+	margin: 5px 0px 5px 50px ;
+	display: block;
+}
+
+.yellow-stripe {
+	background-color: yellow;
+	height: 15px;
+	width: 43%;
+	margin: 0px 0px 0px 55px ;
+	display: block;
+}
+
+.brown-stripe {
+	background-color: brown;
+	height: 100px;
+	width: 45%;
+	margin: 0px 0px 5px 45px ;
+	display: block;
+	border-radius: 20px;
+}
+
+.hw1 {
+	background-color: cyan;
+	text-align: center;
+	height: 100px;
+	width:	50%;
+	margin: 45px;
+	display: block;
+}
+
+.hw2 {
+	background-color: cyan;
+	text-align: center;
+	height: 100px;
+	width:	50%;
+	margin: 45px;
+	display: block;
+}
+	
+h1{
+	font-family: sans-serif;
+	color: red;
+}
+
+h3{
+	font-family: sans-serif;
+	color: blue;
+}
+
+p{
+	font-family: sans-serif;
+	background: orange;
+}
+
+span{
+	font-family: serif;
+	font-size: 20px;
+	background: pink;
+}
